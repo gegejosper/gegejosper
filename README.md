@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gegejosper/gegejosper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +18,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.licdn.com/dms/image/D5616AQGUZZ9BUYYBdQ/profile-displaybackgroundimage-shrink_350_1400/0/1671793373032?e=1678320000&v=beta&t=NYCGCBJuLzObBNJ_umKSp83AN4pOhDmrsfufC0KKuCA">
 
+<br>
 <h3> 👨🏻•💻 About Me </h3>
 
 
@@ -88,7 +87,7 @@ Here are some ideas to get you started:
 
 <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/gegejosperceniza/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/gegejosperceniza/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gegejosper%20Ceniza-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
