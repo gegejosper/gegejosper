@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋<h2> I'm Gegejosper</h2>
 
-<img align='right' src="https://media.licdn.com/dms/image/D5616AQGUZZ9BUYYBdQ/profile-displaybackgroundimage-shrink_350_1400/0/1671793373032?e=1678320000&v=beta&t=NYCGCBJuLzObBNJ_umKSp83AN4pOhDmrsfufC0KKuCA" style="margin-bottom:20px;">
+<img align='right' src="https://media.licdn.com/dms/image/D5616AQGUZZ9BUYYBdQ/profile-displaybackgroundimage-shrink_350_1400/0/1671793373032?e=1678320000&v=beta&t=NYCGCBJuLzObBNJ_umKSp83AN4pOhDmrsfufC0KKuCA" style="margin-bottom:20px; padding-bottom:20px;">
 
 <br />
 
