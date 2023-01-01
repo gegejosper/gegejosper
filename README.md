@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-[![Gegejosper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gegejosper&show_icons=true)](https://github.com/gegejosper)
+[![Gegejosper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gegejosper&show_icons=true&theme=dark)](https://github.com/gegejosper)
 
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gegejosper&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gegejosper&show_icons=true&theme=dark)
 
 <br>
 
